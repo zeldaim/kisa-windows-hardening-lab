@@ -1,0 +1,4 @@
+result/
+before_result/
+*.cfg
+*.log
